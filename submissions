@@ -1,0 +1,3 @@
+submission number, file, CV score, LB score, description
+1,model1/model1.py,0.5463,0.47072,Simple logistic regression with one feature (wordmatch)
+2,model2/model2.py,~0.2580,0.24193, xgboost whq and magic feature 1
